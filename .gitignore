@@ -34,6 +34,8 @@ node_modules/
 jspm_packages/
 build/
 
+!plugins/node/opentelemetry-instrumentation-ioredis/build
+
 # TypeScript v1 declaration files
 typings/
 
